@@ -1,3 +1,29 @@
 img {
   display: none;
 }
+
+p#roar {
+  display: none;
+  font-size: 50px;
+  color: white;
+}
+
+.h1lion {
+  font-size: 100px;
+  color: white;
+}
+
+.h1tiger {
+  font-size: 100px;
+  color: orange;
+}
+
+.lionBG {
+  background-image: url("http://www.prime-cuts.org/wp-content/uploads/2016/02/lions-den.jpg");
+  background-size: cover;
+}
+
+.tigerBG {
+  background-image: url("https://s-media-cache-ak0.pinimg.com/originals/99/81/71/9981717f0ff14e7e8e2a6027574634d8.jpg");
+  background-repeat: cover;
+}
